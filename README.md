@@ -10,12 +10,6 @@ To effectively manage AtliQ hardware's profitability and revenue contributions, 
 By analyzing these metrics, AtliQ can gain insights into the performance of different product lines, customer segments, and market trends. This data-driven approach allows for informed decision-making regarding pricing strategies, product focus, and resource allocation. With a comprehensive understanding of profit margins, revenue contributions, and historical trends, AtliQ can optimize its operations to maximize profitability, reduce costs, and make strategic decisions to achieve its financial goals.
 # Data Model 
 ![Data Model](https://github.com/spriyankagirish/SalesInsight/assets/138349558/b691f6e0-d65e-4f61-b2e1-c33858a90007)
-# Key Insights 
-![Key Insights ](https://github.com/spriyankagirish/SalesInsight/assets/138349558/daca22b2-6b02-4ab8-b42b-7212b5b1c40d)
-# Profit Analysis 
-![Profit Analysis](https://github.com/spriyankagirish/SalesInsight/assets/138349558/66f7e497-bb06-4027-814d-0b8b6bab35f7)
-# Performance Analysis 
-![Performance Insight](https://github.com/spriyankagirish/SalesInsight/assets/138349558/0dd208a8-3a11-4408-aa3b-69e79a6a0203)
 
 # Steps Followed in this project
 Performed a High level analysis of data in SQL to get better understanding over the data.
